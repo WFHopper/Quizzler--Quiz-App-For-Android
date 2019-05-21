@@ -28,6 +28,7 @@ public class MainActivity extends Activity {
     int mScore;
 
 
+    
     // TODO: Uncomment to create question bank
     private TrueFalse[] mQuestionBank = new TrueFalse[] {
             new TrueFalse(R.string.question_1, true),
